@@ -1,7 +1,7 @@
 
 #############################
-git clone ...
 
+git clone https://github.com/pauca/sbt-project-template.git
 
 sbt
 
