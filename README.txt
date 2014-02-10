@@ -1,12 +1,16 @@
 
+Tthis is a template for a scala project using sbt.
+
+What is inside ?
+*testing
+*code checks
+*comand line parser
+
 #############################
 
 git clone https://github.com/pauca/sbt-project-template.git
-
+cd sbt-project-template
 sbt
-
-
-What is inside ?
 
 #############################
 # command line parsing
@@ -37,4 +41,17 @@ sbt scalastyle
 
 sbt assembly
 
+#############################
+# testing
+# http://www.scalatest.org/
 
+sbt test
+
+
+
+
+#############################
+git state
+git add
+git commit -m
+git push -u origin master
